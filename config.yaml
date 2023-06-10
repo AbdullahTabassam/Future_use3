@@ -1,0 +1,10 @@
+path: '/home/msc1/Desktop/YOLO_Birds_sem1/data' # dataset root dir
+train: 'images/train'  # train images (relative to 'path')
+val: 'images/test'  # val images (relative to 'path')
+
+names:
+  0:    European_Robin
+  1:    Coal_Tit
+  2:    Eurasian_Magpie
+  3:    Common_Blackbird
+
